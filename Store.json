@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Noctora Browser",
+    "icon": "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+    "category": "Tools",
+    "developer": "YourName",
+    "publish_date": "2025-11-10",
+    "screenshots": [
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png"
+    ],
+    "short_desc": "Fast, private browser.",
+    "description": "Full description here ...",
+    "apk_url": "https://github.com/beingsamir/Project-Files/releases/download/App/hindi-horror-stories-9-5.apk",
+    "version": "1.3.2",
+    "size": "8.5 MB",
+
+    "package": "com.example.noctorabrowser",
+    "license": "Free",
+    "os": "Android",
+    "language": "English + 45 more",
+    "permissions": "5",
+    "downloads": "2,943",
+    "filetype": "APK",
+    "architecture": "Universal",
+    "rating": "All Ages",
+    "sha256": "4c660af3e7bd3088c98381a4b4e723790912a868926f60c2372ad9ff4706ceb0",
+    "requirements": "Android 5.0 or higher"
+  },
+
+  {
+    "name": "Hindi Stories",
+    "icon": "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+    "category": "Books",
+    "developer": "YourName",
+    "publish_date": "2025-11-10",
+    "screenshots": [
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png"
+    ],
+    "short_desc": "Offline Hindi Stories.",
+    "description": "Full description ...",
+    "apk_url": "https://github.com/beingsamir/Project-Files/releases/download/App/hindi-horror-stories-9-5.apk",
+    "version": "1.3.2",
+    "size": "8.5 MB",
+
+    "package": "com.example.hindistories",
+    "license": "Free",
+    "os": "Android",
+    "language": "Hindi + 10 more",
+    "permissions": "3",
+    "downloads": "5,245",
+    "filetype": "APK",
+    "architecture": "Universal",
+    "rating": "All Ages",
+    "sha256": "4c660af3e7bd3088c98381a4b4e723790912a868926f60c2372ad9ff4706ceb0",
+    "requirements": "Android 5.0 or higher"
+  }
+]
