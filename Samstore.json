@@ -70,5 +70,41 @@
     "dataSecurity": "No user data collected",
     "privacyPolicy": "https://raw.githubusercontent.com/beingsamir/online/refs/heads/main/privacy/noctivox.html",
     "developerContact": "support@samirtech.com"
+  },
+  {
+    "name": "Noctivox Music Player",
+    "icon": "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+    "category": "Music Player",
+    "developer": "Samir Tech",
+    "publish_date": "2025-11-10",
+    "short_desc": "Lightweight offline music player",
+    "description": "Noctivox Music Player supports all formats, playlist management, equalizer, and background playback.",
+    "apk_url": "https://github.com/beingsamir/Project-Files/releases/download/App/hindi-horror-stories-9-5.apk",
+    "version": "2.0.1",
+    "size": "12 MB",
+    "screenshots": [
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png",
+      "https://github.com/beingsamir/online/raw/refs/heads/main/images/Final%20image.png"
+    ],
+    "package": "com.samir.noctivox",
+    "license": "Free",
+    "os": "Android 5.0+",
+    "language": "English",
+    "permissions": "Storage, Audio",
+    "downloads": "3000+",
+    "filetype": "APK",
+    "architecture": "arm64-v8a",
+    "rating": "4.6",
+    "sha256": "789xyz456abc123ghi...",
+    "requirements": "Storage permission required",
+    "whats_new": "Improved equalizer and playlist UI",
+    "deviceCompatibility": "Most Android devices",
+    "ageRating": "Everyone",
+    "dataSecurity": "No user data collected",
+    "privacyPolicy": "https://raw.githubusercontent.com/beingsamir/online/refs/heads/main/privacy/noctivox.html",
+    "developerContact": "support@samirtech.com"
   }
 ]
