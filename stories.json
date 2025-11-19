@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "s1700000000000",
+    "title": "Sample Story 1",
+    "subtitle": "Subtitle 1",
+    "category": "Horror",
+    "tags": ["ghost","night"],
+    "author": "Admin",
+    "image": "https://via.placeholder.com/150",
+    "content": "Ye ek sample horror story hai.",
+    "favorite": false
+  },
+  {
+    "id": "s1700000000001",
+    "title": "Sample Story 2",
+    "subtitle": "",
+    "category": "Horror",
+    "tags": [],
+    "author": "Admin",
+    "image": "https://via.placeholder.com/150",
+    "content": "Ye doosri sample story hai.",
+    "favorite": false
+  }
+]
